@@ -1,0 +1,17 @@
+{
+  "manifest": {
+    "author": "Pug#2199",
+    "version": "0.0.1",
+    "name": "Glizzycord",
+    "transparency_mode": 0,
+    "updater": "https://raw.githubusercontent.com/TheLonelyPug/Glizzycord/main/Glizzycord.json"
+  },
+  "background": {},
+  "simple_colors": {
+    "background": -1697254,
+    "background_secondary": -4874986,
+    "active_channel": -4874986
+  },
+  "colors": {},
+  "drawable_tints": {}
+}
